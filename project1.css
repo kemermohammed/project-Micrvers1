@@ -1,0 +1,14 @@
+#list {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #welcome-section {
+      height: 100vh;
+  }
+  
+  @media screen and (min-width: 900px) {
+      #list {
+        display: flex;
+      }
+  }
